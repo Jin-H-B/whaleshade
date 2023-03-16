@@ -1,4 +1,14 @@
-### Hi there 👋
+# HI 😁 This is Jinhyeok Bang's github page
+
+I'm learning programming to make a startup. <br>
+
+### My Personal History...
+
+- Journalist in Seoul Economic Daily <br>
+- Basic Engineering Designer in Hyundai Heavy Industries(HHI) <br>
+- Bachelor's degree of Mechanical Engineering in Yonsei Univ. <br>
+
+
 
 <!--
 **whaleshade/whaleshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
