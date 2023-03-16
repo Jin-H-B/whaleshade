@@ -5,7 +5,7 @@ I'm learning programming to make a startup. <br>
 ### My Personal History...
 
 - Journalist in Seoul Economic Daily <br>
-- Basic Engineering Designer in Hyundai Heavy Industries(HHI) <br>
+- Engineer for basic design of ship piping system in Hyundai Heavy Industries(HHI) <br>
 - Bachelor's degree of Mechanical Engineering in Yonsei Univ. <br>
 
 
