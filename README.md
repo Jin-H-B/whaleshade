@@ -1,7 +1,5 @@
 # HI 😁 This is Jinhyeok Bang's github page
 
-I'm learning programming to make a startup. <br>
-
 ### My Personal History...
 
 - Journalist in Seoul Economic Daily <br>
