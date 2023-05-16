@@ -13,10 +13,10 @@
 
 ### My Personal History...
 
--   42 Seoul Member (현 42 서울 멤버) <br>
--   Journalist in Seoul Economic Daily (전 서울경제신문 기자) <br>
--   Engineer for basic design of ship piping system in HHI (전 현대중공업 기본설계부 사원)<br>
--   Bachelor's degree of Mechanical Engineering in Yonsei Univ. (연세대학교 기계공학과 졸업)<br>
+-   현 42 서울 멤버 / 42 Seoul Member <br>
+-   전 서울경제신문 기자 / ex Journalist in Seoul Economic Daily <br>
+-   전 현대중공업 기본설계부 사원 / ex Engineer for basic design in HHI (<br>
+-   연세대 기계공학과 졸업 / BSME in Yonsei Univ. (<br>
 
 <!--
 **whaleshade/whaleshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
