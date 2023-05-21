@@ -14,7 +14,7 @@
 ### My Personal History...
 
 -   42 Seoul Member <br>
--   Journalist in Seoul Economic Daily <br>
+-   Journalist at Seoul Economic Daily <br>
 -   Engineer for basic design in HHI <br>
 -   BSME in Yonsei Univ. <br>
 
